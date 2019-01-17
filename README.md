@@ -66,13 +66,13 @@ Generally, store your embedded images in your repo if they are original, or refe
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
-![EX](https://na.alienwarearena.com/ucf/show/764438/boards/gamer-setups/Image/465863-1-1327-p-jpg)
 
 ## Displaying Local Images
 
 You can also upload an image into your repo. 
 
 ![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
+![EX](https://na.alienwarearena.com/ucf/show/764438/boards/gamer-setups/Image/465863-1-1327-p-jpg)
 
 ## Paragraphs
 
